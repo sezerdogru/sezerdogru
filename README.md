@@ -1,16 +1,20 @@
-### Hi there 👋
+##  Hi there, I'm Sezer. :blush:
 
-<!--
-**sezerdogru/sezerdogru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Frontend Developer
 
-Here are some ideas to get you started:
+##  Reach me out via belows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img  width="35" src="https://img.icons8.com/cute-clipart/344/linkedin.png" align="left" />](https://www.linkedin.com/in/sezerdogru/)
+[<img  width="35" src="https://img.icons8.com/bubbles/344/gmail-new.png" align="left" />](mailto:sezer.dogru91@gmail.com)
+
+<br /> 
+
+### Tech I use
+
+<img align="left"  src="https://img.icons8.com/nolan/344/html-5.png" width="35" height="35" />
+<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" width="35" height="35" />
+<img align="left" src="https://img.icons8.com/color/344/javascript--v1.png" width="35" height="35" />  
+<img align="left" src="https://img.icons8.com/color/344/git.png" width="35" height="35" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="35" height="35" />
+
+<br /> 
