@@ -1,4 +1,4 @@
-##  Hi there, I'm Sezer. :blush:
+##  Hi there, I'm Sezer. 🙂
 
 ### I am Frontend Developer
 
