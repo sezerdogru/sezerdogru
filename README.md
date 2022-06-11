@@ -14,6 +14,7 @@
 <img align="left"  src="https://img.icons8.com/nolan/344/html-5.png" width="35" height="35" />
 <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" width="35" height="35" />
 <img align="left" src="https://img.icons8.com/color/344/javascript--v1.png" width="35" height="35" />  
+<img align="left" src="https://img.icons8.com/color/344/sass.png" width="35" height="35" />
 <img align="left" src="https://img.icons8.com/color/344/git.png" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="35" height="35" />
 
