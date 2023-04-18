@@ -9,7 +9,7 @@
 
 <br /> 
 
-### Tech I use
+### Techs I use
 
 <img align="left"  src="https://img.icons8.com/nolan/344/html-5.png" width="35" height="35" />
 <img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" width="35" height="35" />
