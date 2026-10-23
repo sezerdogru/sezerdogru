@@ -1,8 +1,8 @@
 # Hey, I'm Sezer 👋
 
-I build things for the web, mostly with **React, Next.js and TypeScript**. Lately I've been spending my time on headless commerce, passkeys, and shipping small AI-powered products.
+I'm a **full-stack developer**: I build things end to end, from the React / Next.js / TypeScript frontend, to Node.js and PHP backends on PostgreSQL, to mobile apps and cloud deployment. Lately I've been spending my time on headless commerce, passkeys, and shipping small AI-powered products.
 
-I live in Bursa 🇹🇷, and I recently finished my MSc in Computer Science in Hungary 🇭🇺 (with a semester at TU Wien 🇦🇹).
+I recently finished my MSc in Computer Science in Hungary 🇭🇺 (with a semester at TU Wien 🇦🇹).
 
 ---
 
@@ -24,7 +24,7 @@ I live in Bursa 🇹🇷, and I recently finished my MSc in Computer Science in 
 
 ---
 
-## 🔐 Open-source: WebAuthn for Strivacity's SDKs
+## <img src="https://avatars.githubusercontent.com/u/51088701" width="28" align="center" alt="Strivacity logo" /> Open-source: WebAuthn for Strivacity's SDKs
 
 A few PRs I opened while interning at [Strivacity](https://github.com/Strivacity):
 
@@ -36,17 +36,26 @@ A few PRs I opened while interning at [Strivacity](https://github.com/Strivacity
 
 ## 🛠️ What I usually reach for
 
+**Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Backend & data:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Testing, cloud & mobile:**
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -60,3 +69,4 @@ A few PRs I opened while interning at [Strivacity](https://github.com/Strivacity
 
 ![Sezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezerdogru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sezerdogru&theme=dark&hide_border=false&layout=compact)
+![GitHub streak](https://streak-stats.demolab.com/?user=sezerdogru&theme=dark&hide_border=false)
