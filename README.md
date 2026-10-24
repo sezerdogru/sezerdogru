@@ -8,10 +8,10 @@ I recently finished my MSc in Computer Science in Hungary 🇭🇺 (with a semes
 
 ## 🔭 What I'm into right now
 
-- 🤖 Building LLM-powered apps, playing with RAG chatbots and vision-language models (VLMs)
+- 🤖 Building LLM-powered apps and playing with RAG chatbots (I've also worked with vision-language models)
 - 🔐 Passkeys / WebAuthn (I contributed some of it to Strivacity's open-source SDKs, see below)
 - 🛍️ Headless e-commerce with Shopify Hydrogen, Next.js and GraphQL
-- ☁️ Serverless stuff on AWS
+- ☁️ Serverless apps on AWS
 
 ---
 
@@ -27,9 +27,7 @@ I recently finished my MSc in Computer Science in Hungary 🇭🇺 (with a semes
 
 During my exchange semester at TU Wien (March to June 2025) I worked on a research project about **object detection in multi-view kitchen scenes**, using **YOLOv8-M** and **Vision-Language Models**, and wrote it up as a scientific research report.
 
-<a href="https://drive.google.com/file/d/16_5IkKYJG_8z0vlKzZykUL947hk3Hz4L/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Research_Report-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Read PDF" />
-</a>
+[![Read the research report (PDF)](https://img.shields.io/badge/Research_Report-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/16_5IkKYJG_8z0vlKzZykUL947hk3Hz4L/view?usp=sharing)
 
 ---
 
