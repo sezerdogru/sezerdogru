@@ -4,6 +4,8 @@ I'm a **full-stack developer**: I build things end to end, from the React / Next
 
 I recently finished my MSc in Computer Science in Hungary 🇭🇺 (with a semester at TU Wien 🇦🇹).
 
+🟢 **Open to new opportunities.** If you think we'd work well together, drop me a line at [sezer.dogru91@gmail.com](mailto:sezer.dogru91@gmail.com).
+
 ---
 
 ## 🔭 What I'm into right now
@@ -27,7 +29,11 @@ I recently finished my MSc in Computer Science in Hungary 🇭🇺 (with a semes
 
 During my exchange semester at TU Wien (March to June 2025) I worked on a research project about **object detection in multi-view kitchen scenes**, using **YOLOv8-M** and **Vision-Language Models**, and wrote it up as a scientific research report.
 
-[![Read the research report (PDF)](https://img.shields.io/badge/Research_Report-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/16_5IkKYJG_8z0vlKzZykUL947hk3Hz4L/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/16_5IkKYJG_8z0vlKzZykUL947hk3Hz4L/view?usp=sharing">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20%20READ%20THE%20RESEARCH%20REPORT%20(PDF)-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1f2328" alt="Read the research report (PDF)" height="48" />
+  </a>
+</p>
 
 ---
 
@@ -43,20 +49,20 @@ A few PRs I opened while interning at [Strivacity](https://github.com/Strivacity
 
 ## 🛠️ What I usually reach for
 
-![Frontend](https://img.shields.io/badge/Frontend-30363d?style=flat-square) &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)  
+![Frontend](https://img.shields.io/badge/Frontend-22272e?style=flat-square) &nbsp; ![React](https://img.shields.io/badge/React-2d333b?style=flat-square&logo=react&logoColor=adbac7) ![Next.js](https://img.shields.io/badge/Next.js-2d333b?style=flat-square&logo=nextdotjs&logoColor=adbac7) ![TypeScript](https://img.shields.io/badge/TypeScript-2d333b?style=flat-square&logo=typescript&logoColor=adbac7) ![Remix](https://img.shields.io/badge/Remix-2d333b?style=flat-square&logo=remix&logoColor=adbac7) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-2d333b?style=flat-square&logo=tailwindcss&logoColor=adbac7) ![GraphQL](https://img.shields.io/badge/GraphQL-2d333b?style=flat-square&logo=graphql&logoColor=adbac7)  
 
-![Backend](https://img.shields.io/badge/Backend_%26_Data-30363d?style=flat-square) &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
+![Backend](https://img.shields.io/badge/Backend_%26_Data-22272e?style=flat-square) &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-2d333b?style=flat-square&logo=nodedotjs&logoColor=adbac7) ![PHP](https://img.shields.io/badge/PHP-2d333b?style=flat-square&logo=php&logoColor=adbac7) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d333b?style=flat-square&logo=postgresql&logoColor=adbac7)  
 
-![Testing, Cloud & Mobile](https://img.shields.io/badge/Testing_%C2%B7_Cloud_%C2%B7_Mobile-30363d?style=flat-square) &nbsp; ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)  
+![Testing, Cloud & Mobile](https://img.shields.io/badge/Testing_%C2%B7_Cloud_%C2%B7_Mobile-22272e?style=flat-square) &nbsp; ![Vitest](https://img.shields.io/badge/Vitest-2d333b?style=flat-square&logo=vitest&logoColor=adbac7) ![Playwright](https://img.shields.io/badge/Playwright-2d333b?style=flat-square&logo=playwright&logoColor=adbac7) ![AWS](https://img.shields.io/badge/AWS-2d333b?style=flat-square&logo=amazonwebservices&logoColor=adbac7) ![React Native](https://img.shields.io/badge/React_Native-2d333b?style=flat-square&logo=react&logoColor=adbac7) ![Flutter](https://img.shields.io/badge/Flutter-2d333b?style=flat-square&logo=flutter&logoColor=adbac7) ![Kotlin](https://img.shields.io/badge/Kotlin-2d333b?style=flat-square&logo=kotlin&logoColor=adbac7)  
 
-![AI](https://img.shields.io/badge/AI_%C2%B7_ML-30363d?style=flat-square) &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-D97757?style=flat-square) ![VLMs](https://img.shields.io/badge/Vision--Language_Models-0F766E?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00A3A3?style=flat-square)  
+![AI](https://img.shields.io/badge/AI_%C2%B7_ML-22272e?style=flat-square) &nbsp; ![Python](https://img.shields.io/badge/Python-2d333b?style=flat-square&logo=python&logoColor=adbac7) ![LLMs](https://img.shields.io/badge/LLMs-2d333b?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-2d333b?style=flat-square) ![VLMs](https://img.shields.io/badge/Vision--Language_Models-2d333b?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-2d333b?style=flat-square)  
 
 ---
 
 ## 📫 Say hi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezerdogru/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sezer.dogru91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d333b?style=for-the-badge&logo=linkedin&logoColor=adbac7)](https://www.linkedin.com/in/sezerdogru/)
+[![Email](https://img.shields.io/badge/Email-2d333b?style=for-the-badge&logo=gmail&logoColor=adbac7)](mailto:sezer.dogru91@gmail.com)
 
 ---
 
